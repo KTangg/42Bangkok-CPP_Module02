@@ -6,14 +6,12 @@
 /*   By: spoolpra <spoolpra@student.42bangkok.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/01 18:37:20 by spoolpra          #+#    #+#             */
-/*   Updated: 2022/05/02 13:44:40 by spoolpra         ###   ########.fr       */
+/*   Updated: 2022/05/02 13:51:59 by spoolpra         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 #include "Fixed.hpp"
-
-#include <iostream>
 
 int main( void )
 {
